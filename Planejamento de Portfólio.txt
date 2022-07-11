@@ -1,0 +1,10 @@
+# Planejamento para desenvolver um Portfólio - Caique Santana
+
+Neste primeiro contato estou utilizando o conhecimento que adquirir sobre Git e GitHub 
+para tambem planejar qual será meu proximo passo para desenvolver meu portfólio. 
+
+1º Projetos/ Portfólio BootCamp Santander
+2º Projeto Voluntario para ajudar instituições com seu sites prório.
+3º Fazer projetos testeando todo meu conhecimento sobre HTML5 e CSS3
+4º Desenvolver uma Jogo utilizando informações sobre Basquete e jogadores de Basquete.
+Para treinar meu conhecimento em HTML5, CSS3  e JavaScript

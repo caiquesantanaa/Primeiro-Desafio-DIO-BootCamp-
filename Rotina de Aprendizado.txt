@@ -1,0 +1,23 @@
+# Rotina de Aprendizado - Caique Santana
+
+Neste conteudo quero compartilhar o passo a passo da rotina que tenho seguido de aprendizado
+para me capacitar e desenvolver como um profissional melhor.
+
+1º Defina o seu objetivo final (específico, quebrando em passo de estudos) 
+	Ex: Criar um app em Python
+
+2º Defina a data para entregar desse objetivo: 
+	Ex: Daqui a 3 meses
+
+3º Consuma o conteúdo do treinamento por no mínimo 1hr/dia.
+	- Faça os testes
+	- Faça os projetos 
+	- Pesquisar no google por mais novos projetos/exercícios 
+
+4 - Documentar a sua evolução 
+	- Coloque todos projetos/exercícios no Git + GitHub
+	- Compartilhamento de entrega em parciais (Linkedln)
+	- Escrever como foi feito e arquitetado (artigo/blog)
+
+5º Siga a "Rotina de Aprendizado" por pelo menos 1 mês 
+
